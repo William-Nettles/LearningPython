@@ -1,4 +1,4 @@
-import tensorFlow as ts
+
 
 def cur():
     return object
