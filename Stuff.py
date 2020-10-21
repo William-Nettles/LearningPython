@@ -1,3 +1,6 @@
+#Author William Nettles
+
+#Learning Python
 
 
 def cur():
