@@ -1,0 +1,132 @@
+Index: .idea/aws.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/aws.xml	(date 1603323620330)
++++ .idea/aws.xml	(date 1603323620330)
+@@ -0,0 +1,11 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="accountSettings">
++    <option name="activeRegion" value="us-east-1" />
++    <option name="recentlyUsedRegions">
++      <list>
++        <option value="us-east-1" />
++      </list>
++    </option>
++  </component>
++</project>
+\ No newline at end of file
+Index: main.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- main.py	(date 1603323620145)
++++ main.py	(date 1603323620145)
+@@ -0,0 +1,16 @@
++# This is a sample Python script.
++
++# Press Shift+F10 to execute it or replace it with your code.
++# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
++
++
++def print_hi(name):
++    # Use a breakpoint in the code line below to debug your script.
++    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
++
++
++# Press the green button in the gutter to run the script.
++if __name__ == '__main__':
++    print_hi('PyCharm')
++
++# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+Index: .idea/LearningPython.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/LearningPython.iml	(date 1603323620229)
++++ .idea/LearningPython.iml	(date 1603323620229)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="PYTHON_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <content url="file://$MODULE_DIR$" />
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/vcs.xml	(date 1603323620261)
++++ .idea/vcs.xml	(date 1603323620261)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/misc.xml	(date 1603323620276)
++++ .idea/misc.xml	(date 1603323620276)
+@@ -0,0 +1,4 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9" project-jdk-type="Python SDK" />
++</project>
+\ No newline at end of file
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules.xml	(date 1603323620292)
++++ .idea/modules.xml	(date 1603323620292)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/.idea/LearningPython.iml" filepath="$PROJECT_DIR$/.idea/LearningPython.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/inspectionProfiles/profiles_settings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/inspectionProfiles/profiles_settings.xml	(date 1603323620330)
++++ .idea/inspectionProfiles/profiles_settings.xml	(date 1603323620330)
+@@ -0,0 +1,6 @@
++<component name="InspectionProjectProfileManager">
++  <settings>
++    <option name="USE_PROJECT_PROFILE" value="false" />
++    <version value="1.0" />
++  </settings>
++</component>
+\ No newline at end of file
+Index: .idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/.gitignore	(date 1603323620600)
++++ .idea/.gitignore	(date 1603323620600)
+@@ -0,0 +1,3 @@
++# Default ignored files
++/shelf/
++/workspace.xml
